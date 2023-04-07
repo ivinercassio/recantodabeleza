@@ -1,0 +1,14 @@
+Fernando:
+- Padronizar as duas casas depois da vírgula em serviço
+
+Manu:
+
+1) corrigir problemas do RF Registrar Atendimento
+
+2) Resolver apresentação/visualização RF pagamento
+
+3) Resolvido
+
+ambos com o mesmo erro relacionado ao n pra m \/
+- n pra m de funcionário/serviço
+- trabalhar na implementação do pagamento
